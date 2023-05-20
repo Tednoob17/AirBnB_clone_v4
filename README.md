@@ -153,11 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time.__
 
-## Authors
-Ofeinmu Abraham - [Github](https://github.com/abrahamesane) / [Twitter](https://twitter.com/abrahamesane)
 
 
-Third part of Airbnb: Jhoan Stiven Zamora
+
 ## License
 Public Domain. No copy write protection.
 
@@ -166,8 +164,7 @@ Public Domain. No copy write protection.
 ================================
 
 -   By Guillaume, CTO at Holberton School
--   Project to be done in teams of 2 people (My team:  Precious Okafor, Nashville Ofeinmu)
-
+-   Project to be done in teams of 2 people 
 Concepts
 --------
 
